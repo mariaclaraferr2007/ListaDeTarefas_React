@@ -80,7 +80,7 @@ CursoReact2/
    ```bash
    npm run dev
 5. Abra seu navegador e acesse:
-   ```bash
+  
    http://localhost:5173
 ---
 
