@@ -84,6 +84,14 @@ CursoReact2/
    http://localhost:5173
 ---
 
+## Tela Principal
+<img width="645" height="633" alt="image" src="https://github.com/user-attachments/assets/2f161708-7304-4707-b4a0-3c65a8f25fef" />
+
+## Tela de Detalhes
+<img width="607" height="658" alt="image" src="https://github.com/user-attachments/assets/7990ad0c-0ca7-4c80-8534-4491b62a66ba" />
+
+
+
 ## 🧠 Aprendizados
 
 Este projeto serviu como prática para:
