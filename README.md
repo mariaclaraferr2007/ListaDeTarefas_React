@@ -111,3 +111,13 @@ npm ou yarn
 Este projeto está sob a licença MIT. Sinta-se à vontade para usá-lo e modificá-lo.
 
 ## 🛠️ Feito com dedicação para fins de aprendizado!
+
+## 👩‍💻 Autor
+
+Desenvolvido por Maria Clara Ferreira Lopes
+
+🎓 Estudante de Técnico em Informática - COTEMIG
+
+📧 Email: mariaclaraferreiralopes82@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/maria-clara-ferreira-lopes/
